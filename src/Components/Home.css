@@ -1,0 +1,17 @@
+.border_row{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    border-color: rgb(152, 50, 50);
+}
+.home{
+    margin: 50px;
+}
+.paler_Color{
+    padding-left: 670px;
+    margin-bottom: 60px;
+}
+.span{
+    color: blue;
+}

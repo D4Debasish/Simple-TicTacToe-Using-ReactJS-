@@ -1,0 +1,12 @@
+.square_border{
+    border: 2px solid black;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(85, 188, 85);
+}
+/* .Square{
+    align-items: center;
+} */
